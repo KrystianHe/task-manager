@@ -54,3 +54,7 @@ Generuje zadanie na podstawie wiadomości tekstowej.
 Przykład:
 ```bash
 GET /api/ai/tasks/generate-task?message="Write a description for a new task"
+
+
+....
+
