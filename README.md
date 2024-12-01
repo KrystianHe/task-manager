@@ -58,3 +58,8 @@ GET /api/ai/tasks/generate-task?message="Write a description for a new task"
 
 ....
 
+
+
+##Work Contributions Calendar  GitLab
+![image](https://github.com/user-attachments/assets/06ba8c4d-57ad-4a8d-8983-cea1eb50ca9b)
+
