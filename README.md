@@ -59,8 +59,6 @@ GET /api/ai/tasks/generate-task?message="Write a description for a new task"
 ....
 
 
-
-
 ## Work GitLab Contributions
 
 Here is a snapshot of my contributions from GitLab:
